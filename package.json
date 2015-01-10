@@ -1,0 +1,10 @@
+{
+  "author": "Mika Aguilar",
+  "name": "SocketIOGame",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.9.0",
+    "socket.io": "^1.2.1"
+  }
+}
